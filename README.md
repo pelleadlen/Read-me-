@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pelleadlen
 - 👀 I’m interested in digital design
-- 🌱 I’m currently learning everything.
+- 🌱 I’m currently learning react.
 - 💞️ I’m looking to collaborate on cool stuff.
 - 📫 How to reach me pelleadlen@gmail.com
 
